@@ -1,11 +1,13 @@
 # English
-- 👋 Hi, I’m @twolucasplaystdios{color:blue}
+- 👋 Hi, I’m @twolucasplaystdios
 - 👀 I’m interested in computer science and mathematics.
 - 🌱 I’m currently learning Scratch, HTML, CSS
+- 🌐 You can find me at: https://scratch.mit.edu/users/twolucasplay/
 # 中文
 - 👋 我是 @twolucasplaystdios
 - 👀 我對電腦科學和數學很有興趣
 - 🌱 我正在學習Scratch, HTML
+- 🌐 你可在這找我: https://scratch.mit.edu/users/twolucasplay/
 
 <!---
 twolucasplaystdios/twolucasplaystdios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
