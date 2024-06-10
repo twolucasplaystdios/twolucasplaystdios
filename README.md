@@ -9,7 +9,7 @@
 - 🌱 我正在學習Scratch, HTML, CSS, Python
 - 🌐 你可以在Scratch找我: https://scratch.mit.edu/users/twolucasplay/
 # i hate someone forks my project (like @mehmetpek)
-# Also, I am austisic.
+# Also, I am austisic, i might hurt people by not mentioning.
 <!---
 twolucasplaystdios/twolucasplaystdios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
